@@ -26,7 +26,8 @@ This dashboard was built to track, analyze, and visualize global sales performan
 
 ##  Dashboard Preview
 
-![Executive Sales Dashboard Preview](Screenshot 2026-11-01 170729.png)
+![Uploading image.png…]()
+
 
 ##  Repository Structure
 - `Executive_Sales_Dashboard.pbix` - The complete Power BI project file.
