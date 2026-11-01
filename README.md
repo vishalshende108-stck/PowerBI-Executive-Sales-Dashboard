@@ -26,7 +26,7 @@ This dashboard was built to track, analyze, and visualize global sales performan
 
 ##  Dashboard Preview
 
-![Uploading image.png…]()
+<img width="1371" height="732" alt="Image" src="https://github.com/user-attachments/assets/444ad05e-2b0d-4eec-9eee-873ae4057239" />
 
 
 ##  Repository Structure
